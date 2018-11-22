@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Page 666</title>
+	<title>jkhfkghfkgfkg</title>
 </head>
 <body>
-	<p>bonjour je suis le stagiaire</p>
+	<p>bonjour je suis le lugljigjhg</p>
 </body>
 </html>
