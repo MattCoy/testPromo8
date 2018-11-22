@@ -4,16 +4,8 @@
 	<title></title>
 </head>
 <body>
-<h1>Bonsoir</h1>
+<h1>Bonjour</h1>
 <p>kihmkojh</p>
-<p>sdfgsdfgsd
-	sfdg
-	dfgdsf
-	gsdf
-	gsfd
-	gsfdg
-	sfd
-	gfdsg
-</p>
+
 </body>
 </html>
